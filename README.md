@@ -1,6 +1,6 @@
 # Snappy Game : Avengers Edition
 
-![](https://media.giphy.com/media/vND6hIhrxxflR9zWY5/giphy.gif)
+![](https://data.whicdn.com/images/323454041/original.gif)
 
 ["Click here to launch the app"](https://snappygame.netlify.com/)
 
